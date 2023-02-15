@@ -7,8 +7,8 @@ WP Query search filter using get native php function or post method from input f
 $args = array(
     'post_type'     => 'post',
     'post_status'   => 'publish',
-    'orderby' => $_POST['orderby'], 
-    'order' => $_POST['order'],
+    'orderby'       => $_POST['orderby'], 
+    'order'         => $_POST['order'],
     'search_prod_title' => $_POST['search'],
 );
 add_filter( 'posts_where', 'title_filter', 10, 2 );
