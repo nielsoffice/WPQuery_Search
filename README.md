@@ -11,6 +11,7 @@ $args = array(
     'order'         => $_POST['order'],
     'search_prod_title' => $_POST['search'],
 );
+
 add_filter( 'posts_where', 'title_filter', 10, 2 );
 $query = new WP_Query($args);
 remove_filter( 'posts_where', 'title_filter', 10, 2 );
