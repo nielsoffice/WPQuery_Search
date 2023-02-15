@@ -38,6 +38,7 @@ if ( $wp_query->have_posts() ) :
             //Your Code to display post...
      endwhile;
 endif;
+
 ?>
 ```
 
