@@ -41,5 +41,6 @@ endif;
 ```
 
 Reference: <br />
-<a href="https://stackoverflow.com/questions/62350261/how-to-search-only-in-post-title-wp-query"> Link here </a> <br />
-<a href="https://qirolab.com/posts/example-of-wp-query-to-search-by-post-title-in-wordpress"> Link here </a> <br />
+<a href="https://nielsoffice197227997.wordpress.com/2021/11/24/wordpress-the-loop-fetch-data-from-database-wp_query-php/"> WordPress The Loop Fetch Data From Database WP_Query/PHP </a> <br />
+<a href="https://stackoverflow.com/questions/62350261/how-to-search-only-in-post-title-wp-query"> Andvance Filter Search WP_Query </a> <br />
+<a href="https://qirolab.com/posts/example-of-wp-query-to-search-by-post-title-in-wordpress"> Example of WP_Query to search by post title in WordPress </a> <br />
