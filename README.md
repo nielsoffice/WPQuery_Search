@@ -1,4 +1,4 @@
-# WP_Query_Search
+# WPQuery_Search
 WP Query search filter using get native php function or post method from input field for advance search from post and custom post type.
 
 ```PHP
